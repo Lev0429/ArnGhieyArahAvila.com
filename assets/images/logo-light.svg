@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="24"
+   viewBox="0 0 64 24"
+   fill="none"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="logo-light.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5" />
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="9.3139221"
+     inkscape:cx="22.278477"
+     inkscape:cy="16.910169"
+     inkscape:window-width="1360"
+     inkscape:window-height="745"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <text
+     xml:space="preserve"
+     style="font-size:33.4631px;font-family:Georgia;-inkscape-font-specification:Georgia;fill:#fdfdfd;fill-opacity:1;stroke-width:0.627434"
+     x="0.74048406"
+     y="23.848757"
+     id="text5"
+     transform="scale(1.0072908,0.99276192)"><tspan
+       sodipodi:role="line"
+       id="tspan5"
+       x="0.74048406"
+       y="23.848757"
+       style="fill:#fdfdfd;fill-opacity:1;stroke-width:0.627434">Arn.</tspan></text>
+</svg>
